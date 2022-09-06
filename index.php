@@ -279,4 +279,4 @@ uri('/comment-store/{post_id}', 'App\Home', 'commentStore' , 'POST');
 
 
 
-echo "404 - page not found";
+echo "404 - page not found - please go to home";
